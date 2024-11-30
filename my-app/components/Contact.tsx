@@ -40,7 +40,7 @@ export default function Contact() {
               className="relative group h-[300px]"
             >
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/img_v3_02h1_c3e69dcd-13f2-4241-af4d-c98c922e8d3g.jpg-5OcrizBXQSOrq5Yk6aBHB3hTM1vJBX.jpeg"
+                src="/groupWechat.jpg"
                 alt="WeChat Group QR Code"
                 width={300}
                 height={300}
@@ -56,7 +56,7 @@ export default function Contact() {
             >
               <div className="relative text-center">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6099d9ece149b25abc43bffc05fab9e.jpg-KYzlm6PJisEuJ0rYZx8ZUBtSMhTzir.jpeg"
+                  src="/chengqian.jpeg"
                   alt="Personal WeChat QR Code"
                   width={300}
                   height={300}

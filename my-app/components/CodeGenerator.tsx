@@ -48,7 +48,7 @@ export default function CodeGenerator() {
                 <div className="w-3 h-3 rounded-full bg-green-500" />
               </div>
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7N4pqeR2ijlsScCYUoAoiuTKZB5Oer.png"
+                src="/code.png"
                 alt="Generated Python code example showing service implementations with Chinese comments"
                 width={1200}
                 height={1000}

@@ -66,7 +66,7 @@ export default function Hero() {
             className="flex justify-center"
           >
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Icon%20-%20Nebula-AI%20Logo-mwCzcBD5CD6oPRa19MotXgtjtrKAQt.png"
+              src="/logo.png"
               alt="Nebula Tech Design Logo"
               width={120}
               height={120}

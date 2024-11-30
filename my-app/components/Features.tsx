@@ -9,7 +9,7 @@ const features = [
   {
     title: "时序图生成",
     description: "通过AI驱动的时序图生成，轻松可视化复杂的系统交互。从用户输入到数据库查询，全流程清晰呈现，助力开发团队快速理解和优化系统架构。",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/zenuml%20(3)-7hvC30UsTN6GOfhsvz6udcVQN1P8mM.png",
+    image: "/zenuml.png",
     Icon: ArrowRight,
     imageClass: "rounded-xl",
     objectPosition: "center",
@@ -19,7 +19,7 @@ const features = [
   {
     title: "服务接口生成",
     description: "利用AI技术，自动生成符合最佳实践的服务接口。从天气检测到窗口控制，Nebula Tech Design为您的汽车系统提供清晰、一致且易于集成的接口定义，加速开发流程，提高代码质量。",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-8EBNu5o711sk43qAxKnZm2O1Zi5jnK.png",
+    image: "/service.png",
     Icon: Code2,
     imageClass: "rounded-xl",
     objectPosition: "center",
@@ -29,7 +29,7 @@ const features = [
   {
     title: "代码实现",
     description: "借助AI的力量，将设计概念转化为实际可执行的代码。Nebula Tech Design不仅生成符合最佳实践的Python代码，还包含详细的中文注释，确保代码的可读性和可维护性。从服务初始化到事件处理，为您的汽车项目提供坚实的代码基础。",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7N4pqeR2ijlsScCYUoAoiuTKZB5Oer.png",
+    image: "/code.png",
     Icon: Terminal,
     imageClass: "rounded-lg",
     objectPosition: "top",
